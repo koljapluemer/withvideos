@@ -1,6 +1,9 @@
 # SnipVocab
 
-![screenshots of the app](static/screenshot.webp)
+![screenshots of the app](static/demo_ar.webp)
+
+> [!NOTE]  
+> *Archived Prototype. The best ideas will live on in [linguanodon](github.com/koljapluemer/linguanodon)*
 
 ## Running it
 
